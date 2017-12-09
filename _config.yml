@@ -5,15 +5,15 @@ url: ""
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
+  title: Austin Mean Green
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "An Austin based chemical free cleaning service # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Austin Mean Green is a chemical free cleaning service. "Our most powerful cleaner is elbow greese"</p>
 
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
